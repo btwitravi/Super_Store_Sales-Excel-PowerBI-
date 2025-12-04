@@ -78,6 +78,14 @@ Decision-makers can instantly identify:
 - High-performing regions
 - Seasonal sales spikes
 
+## Dashboard Overview
+**Power BI Dashboard**
+
+![Overview](images/Superstore_Dashboard.png)
+
+**Excel Dashboard**
+![Overview](images/Superstore_Excel_Dashboard.png)
+
   ## 📥 How to Use
 
 - Download the repository
