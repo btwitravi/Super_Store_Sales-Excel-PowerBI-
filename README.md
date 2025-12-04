@@ -81,10 +81,10 @@ Decision-makers can instantly identify:
 ## Dashboard Overview
 **Power BI Dashboard**
 
-![Overview](images/Superstore_Dashboard.png)
+![Overview](Dashboard/Superstore_Dashboard.png)
 
 **Excel Dashboard**
-![Overview](images/Superstore_Excel_Dashboard.png)
+![Overview](Dashboard/Superstore_Excel_Dashboard.png)
 
   ## 📥 How to Use
 
